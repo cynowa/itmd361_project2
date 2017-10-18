@@ -40,6 +40,12 @@ nav ul li a {
  font-family: verdana, sans-serif;
 }
 nav ul li a:hover {
-	background-color: #ccc;
-	color: #000;
+  background-color: #ccc;
+  color: #000;
+}
+
+section {
+  width: 100%;
+  float: left;
+  border: 1px solid #fff;
 }
