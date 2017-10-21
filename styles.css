@@ -11,6 +11,14 @@ h3 {
   font-family: verdana, sans-serif;
   text-align: center;
 }
+h6 {
+  color: black;
+  font-family: verdana, sans-serif;
+  text-align: center;
+  background-color: #777;
+  padding: 20px;
+  margin: 0;
+}
 p {
   color: black;
   font-family: verdana, sans-serif;
