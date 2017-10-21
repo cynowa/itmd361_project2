@@ -49,3 +49,21 @@ section {
   float: left;
   border: 1px solid #fff;
 }
+
+.indexbackground {
+  background: url("iit-crown-hall.jpg") no-repeat center center fixed;
+  background-size: cover;
+  background-color: powderblue;
+}
+
+.primaryresumebackground {
+  background: url("building.jpg") no-repeat center center fixed;
+  background-size: cover;
+  background-color: powderblue;
+}
+
+.secondaryresumebackground {
+  background: url("house.png") no-repeat center center fixed;
+  background-size: cover;
+  background-color: powderblue;
+}
