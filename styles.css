@@ -1,5 +1,7 @@
 body {
   background-color: powderblue;
+  margin: 0;
+  padding: 0;
 }
 h1 {
   color: black;
@@ -55,7 +57,6 @@ nav ul li a:hover {
 section {
   width: 100%;
   float: left;
-  border: 1px solid #fff;
 }
 
 .indexbackground {
