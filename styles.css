@@ -60,19 +60,19 @@ section {
 }
 
 .indexbackground {
-  background: url("iit-crown-hall.jpg") no-repeat center center fixed;
+  background: url("images/iit-crown-hall.jpg") no-repeat center center fixed;
   background-size: cover;
   background-color: powderblue;
 }
 
 .primaryresumebackground {
-  background: url("building.jpg") no-repeat center center fixed;
+  background: url("images/building.jpg") no-repeat center center fixed;
   background-size: cover;
   background-color: powderblue;
 }
 
 .secondaryresumebackground {
-  background: url("house.png") no-repeat center center fixed;
+  background: url("images/house.png") no-repeat center center fixed;
   background-size: cover;
   background-color: powderblue;
 }
