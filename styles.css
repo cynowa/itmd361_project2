@@ -44,15 +44,15 @@ nav ul li {
   display: inline;
 }
 nav ul li a {
- display: block;
- padding: 20px;
- font-size: 15px;
- color: #fff;
- text-decoration: none;
- text-align: center;
- text-transform: uppercase;
- display: inline-block;
- font-family: 'Roboto Slab', serif;
+  display: block;
+  padding: 20px;
+  font-size: 15px;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: 'Roboto Slab', serif;
 }
 nav ul li a:hover {
   background-color: #ccc;
@@ -64,20 +64,32 @@ section {
   float: left;
 }
 
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 50%;
+}
+
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 .indexbackground {
   background: url("images/iit-crown-hall.jpg") no-repeat center center fixed;
   background-size: cover;
-  background-color: powderblue;
 }
 
 .primaryresumebackground {
   background: url("images/building.jpg") no-repeat center center fixed;
   background-size: cover;
-  background-color: powderblue;
 }
 
 .secondaryresumebackground {
   background: url("images/house.png") no-repeat center center fixed;
   background-size: cover;
-  background-color: powderblue;
 }
