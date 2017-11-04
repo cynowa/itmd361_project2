@@ -106,6 +106,9 @@ iframe {
   background: url("images/iit-crown-hall.jpg") no-repeat center center fixed;
   background-size: cover;
 }
+#index-white-text h3, p, ul li {
+  color: white;
+}
 
 .primaryresumebackground {
   background: url("images/building.jpg") no-repeat center center fixed;
