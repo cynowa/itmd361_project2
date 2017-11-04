@@ -38,6 +38,9 @@ p {
 strong {
   font-weight: bold;
 }
+em {
+  font-style: italic;
+}
 
 ul {
   color: black;
